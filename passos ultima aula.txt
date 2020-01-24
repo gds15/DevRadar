@@ -1,0 +1,4 @@
+1 --> abrir o backend no vscode
+2 --> adicionar o web sockt no backend comando yarn add socket.io
+3 --> adicionar os codigos no backend depois abrir no vs code o projeto mobile
+4 --> instalar no mobile o web socket client comando yarn add secket.io-client 
