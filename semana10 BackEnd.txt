@@ -1,0 +1,13 @@
+1 --> yarn init -y
+2 --> adicionar para ajudar nas rotas da nossa aplicacao o express comando yarn add express
+3 --> adicionar o nodemon comando yarn add nodemon -D (esse -d quer dizer que o nodemon e uma dependencia de desenvolvimento)
+4 --. adicionar o script 
+"scripts": {
+    "dev": "nodemon src/index.js"
+    },
+
+para quando for rodar o servidor usar apenas o comando no terminal yarn dev
+
+5 --> criar o banco no mongodb atlas
+6 --> instalar o mongoose e e uma biblioteca do node que vai dar acesso ao mongodb comando yarn add mongoose
+7 --. adicionar o axios para consumir a api do github comando yarn add axios

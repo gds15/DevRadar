@@ -1,0 +1,3 @@
+1 --> criar o projeto web comando yarn create react-app web
+2 --> adicionar a extencao cors no backend(abrir o da aula 2) para permitir que o front tenha acesso a ele com o comando yarn add cors
+3 --> instalar o axios no front comando yarn add axios
